@@ -17,7 +17,6 @@ body {
     border-radius: 10px;
     box-sizing: border-box;
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
-    
 }
 
 .navigation:hover {
@@ -61,6 +60,10 @@ ul {
     color: black;
     list-style: none;
 
+}
+
+.a:hover{
+    color: whitesmoke;
 }
 
 .main-footer{
@@ -141,3 +144,15 @@ input {
     align-items: center;
 }
 
+.btn{
+    width: auto;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    color: goldenrod;
+    background-color: black;
+
+}
