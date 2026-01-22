@@ -1,3 +1,39 @@
 body {
     background-color: whitesmoke;
 }    
+
+.navigation{
+    background-color: goldenrod;
+    margin-top: 20px;
+    padding: 20px;
+    color: black;
+    
+}
+
+.parent_div{
+    display: flex;
+    align-items:center ;
+    justify-content: space-around;
+
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+    
+}
+
+a{
+    color: black;
+    list-style: none;
+
+}
