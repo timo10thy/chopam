@@ -60,79 +60,7 @@ ul {
 .a{
     color: black;
     list-style: none;
-    font-weight: bold;
-}
 
-a:hover {
-    color: white;
-}
-
-.btn{
-    width: 100px;
-    padding:10px;
-    border-radius: 10px;
-}
-.btn:hover{
-    color: goldenrod;
-    background-color: black;
-}
-
-
-/* HERO SECTION */
-
-.hero-container {
-  height: 400px; 
-  background-image: url("image/hero_1.jpeg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;   
-  align-items: center;       
-  color: black;
-}
-
-.text-containers {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-}
-
-.text-containers h2 {
-    font-size: 70px;
-    margin-bottom: 20px;
-}
-
-.text-containers span {
-    font-size: 18px;
-}
-
-#third-caption {
-    margin-bottom: 20px;
-}
-
-input {
-    border: 1px solid black;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    width: 500px;
-    align-self: center;
-    padding: 15px;
-    outline: none;
-    border-radius: 5px;
-}
-
-.bx {
-    font-size: 20px;
-    position: relative;
-    right: 30px;
-}
-
-.search-bar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .main-footer{
